@@ -1,6 +1,6 @@
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 node index.js --action="list"
-https://monosnap.com/file/gY9Zgco6Uy0MqoERrMmVeDPXYswfDK
+https://monosnap.com/file/pHp9HdR31DCrPrpAQnj8JB6U06F8Hl
 
 # Отримуємо контакт по id
 node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
